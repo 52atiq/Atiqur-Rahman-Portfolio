@@ -6,7 +6,7 @@ h1{
 }
 .container{
      display: flex;
-     margin-bottom: 80px;
+     margin-bottom: 180px;
 }
 .about-me{
     width: 50%;
@@ -130,4 +130,18 @@ h1{
     width: 400px;
     height: 370px;
   
+}
+/* footer css */
+footer {
+    background-color: black;
+    text-align: center;
+}
+footer h1{
+    font-size: 30px;
+    color: white;
+    font-family: 'Mea Culpa', cursive;
+}
+footer p{
+    color: white;
+    padding-bottom: 50px;
 }
