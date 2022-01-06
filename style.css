@@ -141,9 +141,32 @@ footer h1{
     font-family: 'Mea Culpa', cursive;
 }
 /* contact css */
+.contact {
+    background-color: black;
+    padding: 10px;
+}
+#contact-header{
+      text-transform: uppercase;
+      text-align: center;
+      font-size: 50px;
+      color: chartreuse;
+}
 .my-contact{
     width: 50%;
+    padding-left: 30px;
+
 }
+.my-contact p{
+    color: white;
+}
+.my-contact span{
+     color: #ff004ce7;
+     text-transform: uppercase;
+}
+.my-contact h3{
+    color: white;
+}
+
 footer p{
     color: white;
     padding-bottom: 50px;
